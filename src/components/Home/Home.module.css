@@ -1,0 +1,37 @@
+.container  {
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.menu {
+    color:antiquewhite;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-right: 20;
+}
+
+.about {
+    color:antiquewhite;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+li {
+    padding: 0 20px;
+}
+
+ul {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 40px;
+}
